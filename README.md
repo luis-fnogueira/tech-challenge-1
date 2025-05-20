@@ -1,6 +1,6 @@
 # Tech challenge 1 - Pós-Graduação em Engenharia de Machine Learning - FIAP
 
-Esse projeto foi desenvolvido para o "tech challenge" da primeira fase da pós-graduação em Engenharia de Machine Learning da FIAP "Welcome to Machine Learning Engineering".
+Esse projeto foi desenvolvido para o "tech challenge" da primeira fase da pós-graduação em Engenharia de Machine Learning da FIAP "Welcome to Machine Learning Engineering". Link do projeto: https://github.com/luis-fnogueira/tech-challenge-1.
 
 O README da API pode ser encontrado em `vitibrasil_scraper/README.md` para descrição do projeto,
 instruções de instalação, execução e testes.
