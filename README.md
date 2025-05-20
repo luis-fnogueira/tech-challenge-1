@@ -5,7 +5,7 @@ Esse projeto foi desenvolvido para o "tech challenge" da primeira fase da pós-g
 O README da API pode ser encontrado em `vitibrasil_scraper/README.md` para descrição do projeto,
 instruções de instalação, execução e testes.
 
-A API aqui desenvolvida pode ser testada através de um link público `inserir o link aqui depois`. As rotas estão especificadas no README mencionado acima.
+A API aqui desenvolvida pode ser testada através de um link público https://tech-challenge-1-one.vercel.app/. As rotas estão especificadas no README mencionado acima.
 
 ## Arquitetura do projeto
 
